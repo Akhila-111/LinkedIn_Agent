@@ -1,0 +1,11 @@
+# LinkedIn agent dependencies (from 4_linkedin_agent)
+langchain
+langchain-community
+langchain-nvidia-ai-endpoints
+python-dotenv
+linkedin-jobs-scraper
+resume-matcher
+PyMuPDF
+scikit-learn
+docx2txt
+pandas
